@@ -236,8 +236,6 @@ nav{
     align-content: center;
     min-height: 80vh;
     width: 50%;
-    filter: drop-shadow(0 0 20px #336c98);
-    border-radius: 20px;
 }
 .profile-img {
     border-radius: 150%;
